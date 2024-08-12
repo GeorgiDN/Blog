@@ -1,1 +1,1 @@
-# TESTOVO
+# WebApp Blog with Django
